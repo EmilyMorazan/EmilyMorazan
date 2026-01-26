@@ -1,4 +1,4 @@
-## Hi there 🪄
+## Hi there ˖ ݁𖥔 ݁˖   𐙚   ˖ ݁𖥔 ݁˖
 
 I’m a full-stack software engineer with four years of computer science experience. 
 I’m eager to learn any skills or technologies that will help me grow my career.
