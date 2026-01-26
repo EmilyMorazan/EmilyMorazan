@@ -1,8 +1,8 @@
 ## Hi there 🪄
 
-# I am a Software Engineer who specialles in full Stack
-# I have 4 years of Computer Science experience
-# I am willing to learn anything beneficial for my career
+I am a Software Engineer who specialles in full Stack
+I have 4 years of Computer Science experience
+I am willing to learn anything beneficial for my career
 
 
 <!--
