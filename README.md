@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 🪄
+
+# I am a Software Engineer who specialles in full Stack
+# I have 4 years of Computer Science experience
+# I am willing to learn anything beneficial for my career
+
 
 <!--
 **EmilyMorazan/EmilyMorazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
